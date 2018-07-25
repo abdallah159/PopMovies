@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/topRated"
+        android:icon="@drawable/toprated"
+        android:title="TopRated" />
+
+    <item
+        android:id="@+id/Popular"
+        android:icon="@drawable/popular"
+        android:title="Popular" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="About" />
+
+</menu>

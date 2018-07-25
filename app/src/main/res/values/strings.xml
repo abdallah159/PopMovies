@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="title_activity_main">Pop Movies</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+    <string name="some_error" translatable="false">حدث خطأ</string>
+    <string name="api_default_error" translatable="false">حدث خطأ</string>
+    <string name="connection_error" translatable="false">فقد الاتصال بشبكة</string>
+    <string name="api_retry_error" translatable="false">حاول مرة اخرى</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="empty_username_and_password">Please enter phone and password</string>
+    <string name="empty_username">Please enter phone</string>
+    <string name="empty_password">Please enter password</string>
+    <string name="error_no_internet_connection">No internet connection</string>
+    <string name="error_username_password_incorrect">Phone or password incorrect</string>
+    <string name="email">Email</string>
+    <string name="error_invalied_email">Email is invalid</string>
+    <string name="action_retry">Retry</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_account">don\'t have account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="home">Home</string>
+    <string name="notifications">Notifications</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="cart">Cart</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ask">Ask</string>
+    <string name="empty_phone">Phone</string>
+    <string name="empty_confirm_password">Confirm password is empty</string>
+    <string name="error_password_not_equal_confirm_password">Password and confirm password are different</string>
+    <string name="hint_name">Name</string>
+    <string name="show_product">Show Products</string>
+    <string name="cartons">Cartons</string>
+    <string name="gallons">Gallons</string>
+    <string name="massage_dont_have_gallons">No gallons available</string>
+    <string name="massage_dont_have_cartons">No cartons available</string>
+    <string name="sar">SAR</string>
+    <string name="permission_rationale_settings_button_text">SETTINGS</string>
+    <string name="all_permissions_denied_product">Please provider us with location permission</string>
+    <string name="size">Size</string>
+    <string name="priceOfBuying">Price of buying</string>
+
+
+</resources>
